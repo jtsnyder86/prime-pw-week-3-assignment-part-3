@@ -5,3 +5,9 @@ body{
 header{
     color: deeppink;
 }
+ol{
+    color: deeppink;
+    text-align: left;
+    font-size: small;
+    padding: 100px;
+}
